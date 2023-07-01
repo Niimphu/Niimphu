@@ -1,13 +1,13 @@
 
 <h2 align="center">Hello and welcome to my Github!</h2>
 
-🌕 My name is Yison, but I am also known as Nimphu on the internet.
+🌕 My name is Yison, sometimes known as Nimphu!
 
-🧑‍🎓 I am studying software engineering at <a href="https://42wolfsburg.de/who-are-we/">42Wolfsburg</a>
+🧑‍🎓 I am studying software engineering at <a href="https://42wolfsburg.de/who-are-we/">42Wolfsburg.</a>
 
-🌱 I am learning to code in C and GDscript in Godot, as well as German while I study in Germany.
+🌱 I am learning to code in C and GDscript in Godot, as well as learning German while I study in Germany.
 
-🖥️ I am interested in software development, machine learning, game development and game design.
+🖥️ I am interested in software development, art, game development and game design.
 
 🌎 I aspire to be someone who has a positive impact!
 

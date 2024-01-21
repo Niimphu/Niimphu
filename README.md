@@ -13,8 +13,11 @@
 
 
 Recent 42 projects:
+
 [miniRT](https://github.com/Niimphu/miniRT) (in progress) - a small raytracing engine written in C
+
 [minishell](https://github.com/Niimphu/minishell) - a basic terminal that replicates some of the functionality of the Bash terminal
+
 [CPP modules](https://github.com/Niimphu/CPP_Modules) - a collection of small projects to introduce students to C++
 
 

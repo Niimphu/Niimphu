@@ -1,6 +1,8 @@
 
 <h2 align="center">Hello and welcome to my Github!</h2>
 
+### About me
+
 🌕 My name is Yison, sometimes known as Nimphu.
 
 🧑‍🎓 I am studying software engineering at <a href="https://42wolfsburg.de/who-are-we/">42Wolfsburg.</a>
@@ -12,13 +14,13 @@
 🌎 I aspire to be someone who has a positive impact, and someone who is a good influence on others.
 
 
-Recent 42 projects:
+### Recent 42 projects:
 
-[miniRT](https://github.com/Niimphu/miniRT) (in progress) - a small raytracing engine written in C
+  ☀️ [miniRT](https://github.com/Niimphu/miniRT) (in progress) - a small raytracing engine written in C
 
-[minishell](https://github.com/Niimphu/minishell) - a basic terminal that replicates some of the functionality of the Bash terminal
+  🐚 [minishell](https://github.com/Niimphu/minishell) - a basic terminal that replicates some of the functionality of the Bash terminal
 
-[CPP modules](https://github.com/Niimphu/CPP_Modules) - a collection of small projects to introduce students to C++
+  🖥️ [CPP modules](https://github.com/Niimphu/CPP_Modules) - a collection of small projects to introduce students to C++
 
 
 

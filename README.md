@@ -14,15 +14,17 @@
 🌎 I aspire to be someone who has a positive impact, and someone who is a good influence on others.
 
 
-### Recent 42 projects:
+### Recent projects:
 
-  ☀️ [miniRT](https://github.com/Niimphu/miniRT) (in progress) - a small raytracing engine written in C
+  ☀️ miniRT [GitHub](https://github.com/Niimphu/miniRT) (in progress) - a small raytracing engine that reads text maps to render scenes | 42 | C
 
-  🐚 [minishell](https://github.com/Niimphu/minishell) - a basic terminal that replicates some of the functionality of the Bash terminal
+  🎮 If Hacking was Silly [itch.io](https://nimphu.itch.io/if-hacking-was-silly) - a simple typing game prototype | Game Jam | Godot/GDscript
 
-  🖥️ [CPP modules](https://github.com/Niimphu/CPP_Modules) - a collection of small projects to introduce students to C++
+  🐚 minishell [GitHub](https://github.com/Niimphu/minishell) - a basic terminal that replicates some of the functionality of the Bash terminal | 42 | C
 
-  🔁 [Push swap visualiser](https://github.com/Niimphu/push_swap_visualiser) ([source code](https://github.com/Niimphu/psv_src)) - a helper program to visualise the output of the 42 project [push_swap](https://github.com/Niimphu/push_swap), written in Godot
+  🖥️ CPP modules [GitHub](https://github.com/Niimphu/CPP_Modules) - a collection of small projects to introduce students to C++ | 42 | C++
+
+  🔁 Push swap visualiser [GitHub](https://github.com/Niimphu/push_swap_visualiser) ([source code](https://github.com/Niimphu/psv_src)) - a helper program to visualise the output of the 42 project [push_swap](https://github.com/Niimphu/push_swap) | 42 | Godot
 
 
 

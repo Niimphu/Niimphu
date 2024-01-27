@@ -7,7 +7,7 @@
 
 🧑‍🎓 I am studying software engineering at <a href="https://42wolfsburg.de/who-are-we/">42Wolfsburg.</a>
 
-🌱 I love learning! I am studying programming in C, C++ and GDScript (Godot's scripting language with a synta similar to Python), as well as learning German while I study in Germany.
+🌱 I love learning! I am studying programming in C, C++ and GDScript (Godot's scripting language with a syntax similar to Python), as well as learning German while I study in Germany.
 
 🖥️ I am interested in software development, art, game development and game design. I have been participating in Game Jams and use the Godot game engine.
 

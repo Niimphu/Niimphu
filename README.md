@@ -5,7 +5,7 @@
 
 🌕 My name is Yison, or sometimes Nimphu on the internet.
 
-🧑‍🎓 I am studying software engineering at <a href="https://42wolfsburg.de/who-are-we/">42Wolfsburg.</a>
+🧑‍🎓 I am studying software engineering at <a href="https://42wolfsburg.de/who-are-we/">42Wolfsburg</a>, and aim to graduate in May 2024.
 
 🌱 I love learning! I am studying programming in C, C++ and GDScript (Godot's scripting language with a syntax similar to Python), as well as learning German while I study in Germany.
 

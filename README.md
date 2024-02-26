@@ -16,7 +16,7 @@
 
 ### Recent projects:
 
-  ☀️ miniRT [GitHub](https://github.com/Niimphu/miniRT) (in progress) - a small raytracing engine that reads text maps to render scenes | 42 | C
+  ☀️ miniRT [GitHub](https://github.com/Niimphu/miniRT) - a small raytracing engine that reads text maps to render scenes | 42 | C
 
   🎮 If Hacking was Silly [itch.io](https://nimphu.itch.io/if-hacking-was-silly) - a simple typing game prototype | Game Jam | Godot/GDscript
 

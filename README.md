@@ -18,8 +18,6 @@
 
   ☀️ miniRT [GitHub](https://github.com/Niimphu/miniRT) - a small raytracing engine that reads text maps to render scenes | 42 | C
 
-  🎮 If Hacking was Silly [itch.io](https://nimphu.itch.io/if-hacking-was-silly) - a simple typing game prototype | Game Jam | Godot/GDscript
-
   🐚 minishell [GitHub](https://github.com/Niimphu/minishell) - a basic terminal that replicates some of the functionality of the Bash terminal | 42 | C
 
   🖥️ CPP modules [GitHub](https://github.com/Niimphu/CPP_Modules) - a collection of small projects to introduce students to C++ | 42 | C++

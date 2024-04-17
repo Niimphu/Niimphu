@@ -15,6 +15,7 @@
 
 
 ### Recent projects:
+  💬 ft_irc [GitHub](https://github.com/coderkuehne/ft_irc) (in progress) - an IRC server built to work with HexChat IRC Client | 42 | C++
 
   ☀️ miniRT [GitHub](https://github.com/Niimphu/miniRT) - a small raytracing engine that reads text maps to render scenes | 42 | C
 

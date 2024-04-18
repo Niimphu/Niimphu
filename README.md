@@ -14,6 +14,7 @@
 🌎 I aspire to be someone who has a positive impact, and someone who is a good influence on others.
 
 
+
 ### Recent projects:
   💬 ft_irc [GitHub](https://github.com/coderkuehne/ft_irc) (in progress) - an IRC server built to work with HexChat IRC Client | 42 | C++
 
@@ -25,7 +26,7 @@
 
   🔁 Push swap visualiser [GitHub](https://github.com/Niimphu/push_swap_visualiser) ([source code](https://github.com/Niimphu/psv_src)) - a helper program to visualise the output of the 42 project [push_swap](https://github.com/Niimphu/push_swap) | 42 | Godot
 
-
+  🎮 Scorched [Github](https://github.com/Niimphu/NewbieGameJam2023/tree/main) - my first Game Jam, created for the Newbie Game Jam 2023 | Godot
 
 ![Niimphu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niimphu&show_icons=true&theme=material-palenight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github.com/Niimphu/Niimphu/blob/main/sleepingcat.gif' width='100'>
 <!--

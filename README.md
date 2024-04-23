@@ -16,9 +16,12 @@
 
 
 ### Recent projects:
-  💬 ft_irc [GitHub](https://github.com/coderkuehne/ft_irc) (in progress) - an IRC server built to work with HexChat IRC Client | 42 | C++
 
   ☀️ miniRT [GitHub](https://github.com/Niimphu/miniRT) - a small raytracing engine that reads text maps to render scenes | 42 | C
+  
+  💬 ft_irc [GitHub](https://github.com/coderkuehne/ft_irc) (in progress) - an IRC server built to work with HexChat IRC Client | 42 | C++
+
+  🎮 Scorched [Github](https://github.com/Niimphu/NewbieGameJam2023/tree/main) - my first Game Jam, created for the Newbie Game Jam 2023 | Godot
 
   🐚 minishell [GitHub](https://github.com/Niimphu/minishell) - a basic terminal that replicates some of the functionality of the Bash terminal | 42 | C
 
@@ -26,7 +29,7 @@
 
   🔁 Push swap visualiser [GitHub](https://github.com/Niimphu/push_swap_visualiser) ([source code](https://github.com/Niimphu/psv_src)) - a helper program to visualise the output of the 42 project [push_swap](https://github.com/Niimphu/push_swap) | 42 | Godot
 
-  🎮 Scorched [Github](https://github.com/Niimphu/NewbieGameJam2023/tree/main) - my first Game Jam, created for the Newbie Game Jam 2023 | Godot
+ 
 
 ![Niimphu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niimphu&show_icons=true&theme=material-palenight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github.com/Niimphu/Niimphu/blob/main/sleepingcat.gif' width='100'>
 <!--

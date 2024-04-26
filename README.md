@@ -17,17 +17,17 @@
 
 ### Recent projects:
 
-  ☀️ miniRT [GitHub](https://github.com/Niimphu/miniRT) - a small raytracing engine that reads text maps to render scenes | 42 | C
+  ☀️ miniRT [repo](https://github.com/Niimphu/miniRT) - a small raytracing engine that reads text maps to render scenes | 42 | C
   
-  💬 ft_irc [GitHub](https://github.com/coderkuehne/ft_irc) (in progress) - an IRC server built to work with HexChat IRC Client | 42 | C++
+  💬 ft_irc [repo](https://github.com/coderkuehne/ft_irc) (in progress) - an IRC server built to work with HexChat IRC Client | 42 | C++
 
-  🎮 Scorched [Github](https://github.com/Niimphu/NewbieGameJam2023/tree/main) - my first Game Jam, created for the Newbie Game Jam 2023 | Godot
+  🎮 Scorched [repo](https://github.com/Niimphu/NewbieGameJam2023/tree/main) - my first Game Jam, created for the Newbie Game Jam 2023 | Godot
 
-  🐚 minishell [GitHub](https://github.com/Niimphu/minishell) - a basic terminal that replicates some of the functionality of the Bash terminal | 42 | C
+  🐚 minishell [repo](https://github.com/Niimphu/minishell) - a basic terminal that replicates some of the functionality of the Bash terminal | 42 | C
 
-  🖥️ CPP modules [GitHub](https://github.com/Niimphu/CPP_Modules) - a collection of small projects to introduce students to C++ | 42 | C++
+  🖥️ CPP modules [repo](https://github.com/Niimphu/CPP_Modules) - a collection of small projects to introduce students to C++ | 42 | C++
 
-  🔁 Push swap visualiser [GitHub](https://github.com/Niimphu/push_swap_visualiser) ([source code](https://github.com/Niimphu/psv_src)) - a helper program to visualise the output of the 42 project [push_swap](https://github.com/Niimphu/push_swap) | 42 | Godot
+  🔁 Push swap visualiser [repo](https://github.com/Niimphu/push_swap_visualiser) ([source code](https://github.com/Niimphu/psv_src)) - a helper program to visualise the output of the 42 project [push_swap](https://github.com/Niimphu/push_swap) | 42 | Godot
 
  
 

@@ -19,7 +19,7 @@
 
   ☀️ miniRT [repo](https://github.com/Niimphu/miniRT) - a small raytracing engine that reads text maps to render scenes | 42 | C
   
-  💬 ft_irc [repo](https://github.com/coderkuehne/ft_irc) (in progress) - an IRC server built to work with HexChat IRC Client | 42 | C++
+  💬 ft_irc [repo](https://github.com/Niimphu/ft_irc) - an IRC server built to work with HexChat IRC Client | 42 | C++
 
   🎮 Scorched [repo](https://github.com/Niimphu/NewbieGameJam2023/tree/main) - my first Game Jam, created for the Newbie Game Jam 2023 | Godot
 

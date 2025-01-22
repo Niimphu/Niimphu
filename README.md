@@ -21,7 +21,7 @@
   
   💬 ft_irc ([repo](https://github.com/Niimphu/ft_irc)) - an IRC server built to work with HexChat IRC Client | 42 | C++
 
-  🎮 Avarice ([repo](https://github.com/Niimphu/JGJ24)) - a recent entry to the Yogscast Jingle Jam that won an award! | Godot
+  🎮 Avarice ([repo](https://github.com/Niimphu/JGJ24))([itch](https://nimphu.itch.io/avarice)) - a recent entry to the Yogscast Jingle Jam that won an award! | Godot
 
   🐚 minishell ([repo](https://github.com/Niimphu/minishell)) - a basic terminal that replicates some of the functionality of the Bash terminal | 42 | C
 

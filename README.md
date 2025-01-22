@@ -7,9 +7,9 @@
 
 🧑‍🎓 I studied software engineering at [42 Wolfsburg](https://42wolfsburg.de/who-are-we/) and Aerospace Engineering at [Brunel University London](https://www.brunel.ac.uk/).
 
-🌱 I love learning! I am studying programming in C, C++ and GDScript (Godot's scripting language with a syntax similar to Python), as well as learning German while I studied in Germany.
+🌱 I love learning! I am studying programming in C, C++ and GDScript (Godot's scripting language with a syntax similar to Python), and learned basic German when I studied in Germany.
 
-🖥️ I am interested in software development, art, game development and game design. I have been participating in Game Jams and use the Godot game engine.
+🖥️ I am interested in software development, art, game development and game design. I have been participating in Game Jams and use the Godot game engine. [Here](https://nimphu.itch.io) are some small games that I've made!
 
 🌎 I aspire to be someone who has a positive impact, and someone who can be proud of their work.
 
